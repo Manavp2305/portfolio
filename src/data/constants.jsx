@@ -7,7 +7,8 @@ import zerodhaImg from '../images/Zerodha.jpg';
 import eventImg from '../images/event.png';
 import weatherImg from '../images/weather.png';
 import propertyImg from '../images/property.png';
-
+import charusatImg from '../images/charusat.png'
+import knowledgeImg from '../images/knowledge.png'
 
 
 
@@ -235,7 +236,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAeCAMAAAB61OwbAAAAwFBMVEX////7+vsAPo8ANYsAN4wACn709vkLVJoAUJcBUZgAUZjBz+EATpYAR5OkscwbWpwASpUAS5Vlg7KFmb4gU5hVe65gf7Db4es4YZ+WqclAbacAQpEARJKuvdW9x9xeeKsAQJDK1+bp7vVHZqCsts+irMh4lb3h6fIAFYEAMYqQosTT2eYATp5wcJTbcijkdieHYGzVZwDqeQv1ewBgWIJKb6epqr3rbgCnalCUj5+haVlDcqqmm6JERHt1i7YpYaD05pd4AAABvElEQVR4AXzShYKjMBRA0YdsScILJFBcqgvj7sb//9UGrezM3BY/OADaD8GYbpjf9Wc2AovQb2K6fQQYHkLuHAJiusQQrJ1DRDWR3gEgVJ1y5uuIfB6ELlFrxAGQIbRFGDtJmuWZpMzU9gDLiwjaZoWbY+CUC8GW9j7IVsPi2pUUeQkb5Nt9sFw727+94IThBiohvQNQ1ye2U4LK1pncQCjRPTwF1Il+WoDqTOSJNidErPfuIt/C+enFhWGrc4RSakmuLny1dwTzHODy6vomixIu9TLKWLfTBJbJuobV7d39A+eEezBHSqnwJoCPEPsAT893LxdMbGAjqAo3I2BmbZs8Anh9frvgG+2d0zZC1wPABQSItAb4+FwuZgGnXWx5PgDhA1fnQbVc+NGGM9qXFQOQX+BlyHD5pU5TBrkueyC+xmvQSzgLLMwfV57vFEWSEtqGjwNQZ8sY549bRxeC51wgna5y+mCs1K/mGSEokZDpu4wmwCzXcpvUbZqvpnHJdJUToPheJUGQfllVVQU4AFHtgSZN08aqME2DeAS4GIGKoGuh9YhtdIiImQJU4i6JB52uFXj8pbiEfyMIADJOMp75ABitAAAAAElFTkSuQmCC",
+    img: charusatImg,
     school: "Charotar University of Science and Technology (CHARUSAT), Gujarat",
     date: "Sep 2022 - Apr 2026",
     grade: "9.04 CGPA",
@@ -244,7 +245,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABAlBMVEX///////75///+///49/D108/zwsL7+PXyzMzsZWbqEiPsGR7rHiLoFiTpbGn6/PjsdXjsERTrKy/sMjfvMTrtMjXuDBrrfn/sSlHwMDjrVFfsW17sMTbZMjHhMzvOMTftravIMjPGMjm0MjFqLzMoKCeqNzbsPEPstrWXMzX1MzW/MDQ6MzcZKi9hV1jpoaO7MjkYNTQwMTNjY2Pyp6Psk5NDMzZQMTIvNTTTg4OLMzgqMSxnTVTJioZRV1h8MjbqiIUPMTD14uF/QUUAKzLpTUtbS0/BZWQrKC1sODxtbW2MLS757OxAQECwsLCoqKiWlpaFhYWopqfV1dXPz8+Kioo17ibzAAABqklEQVR4AVyRVXLDQBBEpV2zeEZj0srMzMzh5P73yZqhf181VLVykco4DwRDoWCYM+VVjEWiMU3XY4YZ5M/I4mHbAXQRCSGesLj6ALmVNNxUCs/S09ZTqAcC/QyhSKUom9Wj7GZjLKcJxHwhRaJYKleqQqvxS7GqMCBEUag3mq12p5tIoqjerRFdNlGv1OsPhiMAIVC7Tx6DhKneZDqbzWOnTUb3Cpl9gpXZYDBDEigFiSvk0RNcLFflQdalE7QvpSo/O6f99Wa5baROcHc18pEhWabf9muTfa8hTp3KVQeHsLGdtf1G7e09T9IbP7Crk32AW+8PPl1h5L6+myTAe7gmEs/8TH/ngMLYmX89aVTu1/CxlhzvQLYRpF1f7z5+qvKdA4B0HA2gjRm/O6VYDTRCIYhiEGKK+np3ziPp9nKWDOLKi2TUf1tSjYAwFEPT6Y+cghHN3hXLj/f+R8GhGnlKtPrns/rZNM1y9elnecE3Xn+2rfwWKFpZr/Lkqz1P0IElhCtvgb3aOa6oimntS3SQyGvmLsEhiYFJIzwZrWgApFJEURhNZBnaB2hEPi9y+PAuAAAAAElFTkSuQmCC",
+    img: knowledgeImg,
     school: "Knowledge high School, Anand",
     date: "Jun 2021 - Mar 2022",
     grade: "77%",
@@ -253,8 +254,7 @@ export const education = [
   },
   {
   id: 2,
-  img: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAABAlBMVEX///////75///+///49/D108/zwsL7+PXyzMzsZWbqEiPsGR7rHiLoFiTpbGn6/PjsdXjsERTrKy/sMjfvMTrtMjXuDBrrfn/sSlHwMDjrVFfsW17sMTbZMjHhMzvOMTftravIMjPGMjm0MjFqLzMoKCeqNzbsPEPstrWXMzX1MzW/MDQ6MzcZKi9hV1jpoaO7MjkYNTQwMTNjY2Pyp6Psk5NDMzZQMTIvNTTTg4OLMzgqMSxnTVTJioZRV1h8MjbqiIUPMTD14uF/QUUAKzLpTUtbS0/BZWQrKC1sODxtbW2MLS757OxAQECwsLCoqKiWlpaFhYWopqfV1dXPz8+Kioo17ibzAAABqklEQVR4AVyRVXLDQBBEpV2zeEZj0srMzMzh5P73yZqhf181VLVykco4DwRDoWCYM+VVjEWiMU3XY4YZ5M/I4mHbAXQRCSGesLj6ALmVNNxUCs/S09ZTqAcC/QyhSKUom9Wj7GZjLKcJxHwhRaJYKleqQqvxS7GqMCBEUag3mq12p5tIoqjerRFdNlGv1OsPhiMAIVC7Tx6DhKneZDqbzWOnTUb3Cpl9gpXZYDBDEigFiSvk0RNcLFflQdalE7QvpSo/O6f99Wa5baROcHc18pEhWabf9muTfa8hTp3KVQeHsLGdtf1G7e09T9IbP7Crk32AW+8PPl1h5L6+myTAe7gmEs/8TH/ngMLYmX89aVTu1/CxlhzvQLYRpF1f7z5+qvKdA4B0HA2gjRm/O6VYDTRCIYhiEGKK+np3ziPp9nKWDOLKi2TUf1tSjYAwFEPT6Y+cghHN3hXLj/f+R8GhGnlKtPrns/rZNM1y9elnecE3Xn+2rfwWKFpZr/Lkqz1P0IElhCtvgb3aOa6oimntS3SQyGvmLsEhiYFJIzwZrWgApFJEURhNZBnaB2hEPi9y+PAuAAAAAElFTkSuQmCC",
-  school: "Knowledge High School, Anand",
+  img: knowledgeImg,
   date: "Jun 2019 - Mar 2020",
   grade: "87%",
   desc: "Completed Class 10 (SSC) under GSEB with a focus on core subjects including Mathematics, Science, and English. Built a strong foundation in analytical thinking and problem-solving.",
