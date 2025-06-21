@@ -23,8 +23,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Manavp2305",
-  resume:
-    "https://drive.google.com/file/d/1vHP9EeBcpZt28UihHUEwFnwbrDrMUJCc/view?usp=drivesdk",
+  resume:"./Manav_resume.pdf",
   linkedin: "https://www.linkedin.com/in/manav-patel-8a4049251/",
   twitter: "https://twitter.com/ManavPatel2335",
   insta: "https://www.instagram.com/manav__2303?igsh=dTYyeHEwcGRxbHdq",
