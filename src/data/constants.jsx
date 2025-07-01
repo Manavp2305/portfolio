@@ -333,7 +333,7 @@ export const projects = [
     },
     {
       name: "Vandan Soni",
-      img: "https://media.licdn.com/dms/image/v2/D4D35AQGu-n7HhNvjbg/profile-framedphoto-shrink_100_100/B4DZUS5xZZGkAo-/0/1739778889626?e=1750251600&v=beta&t=muTDy1-MNYo3Y_dQl3yuYWQfBGE5cjcjwm2mB8gCYvQ",
+      img: "https://media.licdn.com/dms/image/v2/D4D35AQGu-n7HhNvjbg/profile-framedphoto-shrink_100_100/B4DZUS5xZZGkAo-/0/1739778889626?e=1751965200&v=beta&t=kq4b-nTuOj-FCrBOt1XhQ4J0bG3jQVUOrspH24kcQmg",
       linkedin: "https://www.linkedin.com/in/vandan-soni-999244251/",
       github: "https://github.com/Vandan304",
     },
