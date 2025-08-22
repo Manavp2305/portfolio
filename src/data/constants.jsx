@@ -194,7 +194,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D4D0BAQG_7IhhPbvS4g/company-logo_100_100/company-logo_100_100/0/1736687713173/appifly_infotech_logo?e=1755129600&v=beta&t=KvBbPpAryjpyoucNt5RDHHRO-XkYqK_g4XzVcQfBY5w",
+    img: "https://firebasestorage.googleapis.com/v0/b/ieducation-896a1.appspot.com/o/svg.svg?alt=media&token=973308d9-4681-469c-8bc0-04e0b831ad84",
     role: "Full Stack Developer Intern",
     company: "Appifly Infotech",
     date: "May 2025 - June 2025",
@@ -211,7 +211,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHtYmHxUs9B_g/company-logo_100_100/company-logo_100_100/0/1630616931234/sparks_to_ideas_logo?e=1755129600&v=beta&t=jcnitI4-YxuAg8cwcslkyR7QR4k5z6irEd21Vgqgqz4",
+    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHtYmHxUs9B_g/company-logo_200_200/company-logo_200_200/0/1630616931234/sparks_to_ideas_logo?e=1758758400&v=beta&t=moVtMjxIVJF2pPVfcxBYLSP_11hxnfJhW4CpBlOq-m0",
     role: "MERN Stack Developer Intern",
     company: "Sparks To Ideas",
     date: "May 2024 - June 2024",
