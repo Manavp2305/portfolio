@@ -1,33 +1,28 @@
-import ecommerceImg from '../images/e-commerce.png';
-import chatImg from '../images/chat-app.png';
-import quizImg from '../images/quiz-app.png';
-import jobImg from '../images/JobPortal.png';
-import HeroImg from '../images/HeroImage.png';
-import zerodhaImg from '../images/Zerodha.jpg';
-import eventImg from '../images/event.png';
-import weatherImg from '../images/weather.png';
-import propertyImg from '../images/property.png';
-import charusatImg from '../images/charusat.png'
-import knowledgeImg from '../images/knowledge.png'
-
-
+import ecommerceImg from "../images/e-commerce.png";
+import chatImg from "../images/chat-app.png";
+import quizImg from "../images/quiz-app.png";
+import jobImg from "../images/JobPortal.png";
+import HeroImg from "../images/HeroImage.png";
+import zerodhaImg from "../images/Zerodha.jpg";
+import eventImg from "../images/event.png";
+import weatherImg from "../images/weather.png";
+import propertyImg from "../images/property.png";
+import charusatImg from "../images/charusat.png";
+import knowledgeImg from "../images/knowledge.png";
+import lawmateImg from "../images/Lawmate.png";
 
 export const Bio = {
   name: "Manav Patel",
-  roles: [
-    "Full Stack Developer",
-    ".NET Developer",
-    "Freelancer",
-    "Programmer",
-  ],
+  roles: ["Full Stack Developer", ".NET Developer", "Freelancer", "Programmer"],
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Manavp2305",
-  resume:"./Manav_resume.pdf",
+  resume: "./Manav_resume.pdf",
   linkedin: "https://www.linkedin.com/in/manav-patel-8a4049251/",
   twitter: "https://twitter.com/ManavPatel2335",
   insta: "https://www.instagram.com/manav__2303?igsh=dTYyeHEwcGRxbHdq",
-  facebook: "https://www.facebook.com/profile.php?id=100029327657483&mibextid=ZbWKwL",
+  facebook:
+    "https://www.facebook.com/profile.php?id=100029327657483&mibextid=ZbWKwL",
 };
 
 export const skills = [
@@ -39,7 +34,7 @@ export const skills = [
         image:
           "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K",
       },
-      
+
       {
         name: "Next Js",
         image:
@@ -71,7 +66,8 @@ export const skills = [
       },
       {
         name: "Tailwind CSS",
-        image:"https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
+        image:
+          "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg",
       },
     ],
   },
@@ -84,11 +80,13 @@ export const skills = [
       },
       {
         name: "Express Js",
-        image:"https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF",
+        image:
+          "https://img.icons8.com/?size=100&id=kg46nzoJrmTR&format=png&color=FFFFFF",
       },
       {
         name: "MySQL",
-        image:"https://img.icons8.com/?size=100&id=39858&format=png&color=FFFFFF",
+        image:
+          "https://img.icons8.com/?size=100&id=39858&format=png&color=FFFFFF",
       },
       {
         name: "MongoDB",
@@ -97,7 +95,8 @@ export const skills = [
       },
       {
         name: "C#",
-        image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg",
       },
       {
         name: ".NET CORE",
@@ -105,8 +104,9 @@ export const skills = [
           "https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg",
       },
       {
-      name: "MS SQL Server",
-      image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
+        name: "MS SQL Server",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg",
       },
 
       {
@@ -117,35 +117,33 @@ export const skills = [
     ],
   },
   {
-  title: "Programming",
-  skills: [
-    {
-      name: "C++",
-      image:
-        "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
-    },
-    {
-      name: "Python",
-      image:
-        "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
-    },
-    {
-      name: "C",
-      image:
-        "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
-    },
-    {
-      name: "Data Structures",
-      image:
-        "https://cdn-icons-png.flaticon.com/512/3176/3176362.png", // Custom icon
-    },
-    {
-      name: "OOPs",
-      image:
-        "https://cdn-icons-png.flaticon.com/512/2799/2799333.png", // Custom icon
-    },
-  ],
-},
+    title: "Programming",
+    skills: [
+      {
+        name: "C++",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg",
+      },
+      {
+        name: "Python",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg",
+      },
+      {
+        name: "C",
+        image:
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg",
+      },
+      {
+        name: "Data Structures",
+        image: "https://cdn-icons-png.flaticon.com/512/3176/3176362.png", // Custom icon
+      },
+      {
+        name: "OOPs",
+        image: "https://cdn-icons-png.flaticon.com/512/2799/2799333.png", // Custom icon
+      },
+    ],
+  },
   {
     title: "Others",
     skills: [
@@ -156,7 +154,8 @@ export const skills = [
       },
       {
         name: "GitHub",
-        image: "https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF",
+        image:
+          "https://img.icons8.com/?size=100&id=3tC9EQumUAuq&format=png&color=FFFFFF",
       },
       {
         name: "Docker",
@@ -165,8 +164,7 @@ export const skills = [
       },
       {
         name: "Netlify",
-        image:
-          "https://www.netlify.com/v3/img/components/logomark.svg",
+        image: "https://www.netlify.com/v3/img/components/logomark.svg",
       },
       {
         name: "VS Code",
@@ -184,8 +182,9 @@ export const skills = [
           "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAZ0lEQVR4AWMYwkBICI/krCm45eQ/ftfCKbnp//9FuOTsfv3//98Fh+TB/0BwELtc8H8wiMMqeRUieRWbXPF/KCjGIvkYJvkYU27KfzjoxAi4jwjJ7/KY/keA1ahy3E2dSKCJm2FEAQAD1l2xzdeQ1AAAAABJRU5ErkJggg==",
       },
       {
-       name: "AWS",
-       image: "https://img.icons8.com/?size=100&id=AtEKkdldZfri&format=png&color=FFFFFF",   
+        name: "AWS",
+        image:
+          "https://img.icons8.com/?size=100&id=AtEKkdldZfri&format=png&color=FFFFFF",
       },
     ],
   },
@@ -248,12 +247,12 @@ export const education = [
     degree: "HSC (Class 12), Science Stream",
   },
   {
-  id: 2,
-  img: knowledgeImg,
-  date: "Jun 2019 - Mar 2020",
-  grade: "87%",
-  desc: "Completed Class 10 (SSC) under GSEB with a focus on core subjects including Mathematics, Science, and English. Built a strong foundation in analytical thinking and problem-solving.",
-  degree: "SSC (Class 10), General Curriculum",
+    id: 2,
+    img: knowledgeImg,
+    date: "Jun 2019 - Mar 2020",
+    grade: "87%",
+    desc: "Completed Class 10 (SSC) under GSEB with a focus on core subjects including Mathematics, Science, and English. Built a strong foundation in analytical thinking and problem-solving.",
+    degree: "SSC (Class 10), General Curriculum",
   },
 ];
 
@@ -263,21 +262,47 @@ export const projects = [
     title: "Real-Time Chat Application",
     date: "Jan 2025 - Feb 2025",
     description:
-     "Developed a full-stack real-time chat application enabling users to engage in instant messaging with secure user authentication. Implemented Socket.IO for real-time, bidirectional communication between users. Integrated JWT-based authentication to manage sessions securely. Designed a responsive and intuitive UI using React.js and managed application state using Redux. The backend was built with Node.js and Express.js, with MongoDB used for efficient message storage and user data management. Features include user registration, login, individual and group chats, and active user status. The app provides a seamless experience across desktop and mobile devices.",
-    image:chatImg,
-    tags: ["React Js", "MongoDb", "Node Js", "Express Js", "Lucide React", "Socket.io", "tailwind-css"],
+      "Developed a full-stack real-time chat application enabling users to engage in instant messaging with secure user authentication. Implemented Socket.IO for real-time, bidirectional communication between users. Integrated JWT-based authentication to manage sessions securely. Designed a responsive and intuitive UI using React.js and managed application state using Redux. The backend was built with Node.js and Express.js, with MongoDB used for efficient message storage and user data management. Features include user registration, login, individual and group chats, and active user status. The app provides a seamless experience across desktop and mobile devices.",
+    image: chatImg,
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Lucide React",
+      "Socket.io",
+      "tailwind-css",
+    ],
     category: "web app",
     github: "https://github.com/Manavp2305/fullStack-chat-app",
     webapp: "https://fullstack-chat-app-967z.onrender.com/login",
-    
   },
   {
     id: 1,
+    title: "Lawmate",
+    date: "Sep 2024 - Nov 2024",
+    description:
+      "Developed an AI-powered legal assistance web platform that allows users to upload legal documents for automated summarization, search and filter lawyers by specialization, book appointments, and make secure online payments. Built dedicated dashboards for clients, lawyers, and admins to manage profiles, bookings, and transactions, with JWT-based authentication and role-based access control. Implemented a React.js frontend, FastAPI backend, and MongoDB database, integrating NLP models for document processing and focusing on security, usability, and scalability of the overall system.",
+    image: lawmateImg,
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Python",
+      "RazorPay",
+    ],
+    category: "web app",
+    github: "https://github.com/Manavp2305/Lawmate",
+    webapp: "https://lawmate-legal-ai.vercel.app/",
+  },
+  {
+    id: 2,
     title: "Cloth-shopping Platform",
     date: "Sep 2024 - Nov 2024",
     description:
       "Developed a full-stack E-commerce web application that allows users to browse products, filter by category, add items to the cart, and securely checkout using integrated payment gateways like Stripe and Razorpay. The admin dashboard supports product management (add/update/delete), order tracking, and user management. Implemented authentication & authorization, responsive UI with React.js, backend with Node.js & Express.js, and real-time product updates with MongoDB. Focused on performance, user experience, and scalability.",
-    image:ecommerceImg,
+    image: ecommerceImg,
     tags: [
       "React Js",
       "MongoDb",
@@ -291,53 +316,59 @@ export const projects = [
     webapp: "https://goshop-beta.vercel.app/",
   },
   {
-    id: 2,
+    id: 3,
     title: "Quiz-App",
     date: "Apr 2025 - May 2025",
     description:
       "Developed a full-stack Quiz Web Application using React for the frontend and .NET Core for the backend. The application allows users to take quizzes across various topics with real-time scoring and feedback. Features include user authentication, a timer for each quiz session, and dynamic question loading. Admin users can create and manage quizzes through a secure dashboard. Focused on delivering a responsive and intuitive user interface, ensuring a smooth experience across devices.",
-    image:quizImg,
+    image: quizImg,
     tags: ["React Js", "ASP.NET CORE WEB API", "MS SQL SERVER", "Material Ui"],
     category: "web app",
-    
-    
   },
   {
-    id: 3,
+    id: 4,
     title: "JobConnect",
     date: "Dec 2021 - Apr 2022",
-    description: "JobConnect is an advanced job portal web application built using React for the frontend, aimed at revolutionizing the recruitment process for both job seekers and recruiters. The platform integrates AI-powered resume analysis, smart job matching algorithms, and skill-based assessments to provide users with personalized career recommendations and insights. For job seekers, JobConnect offers features like real-time job search, filtered listings, application tracking, and resume evaluation with improvement suggestions. Recruiters benefit from an intuitive dashboard to post jobs, screen applicants, and manage the entire hiring process efficiently. The application ensures secure user authentication, data privacy, and responsive design for seamless usability across devices. By blending career guidance tools with robust hiring functionalities, JobConnect bridges the gap between talent and opportunity, catering to everyone from fresh graduates to seasoned professionals.",
+    description:
+      "JobConnect is an advanced job portal web application built using React for the frontend, aimed at revolutionizing the recruitment process for both job seekers and recruiters. The platform integrates AI-powered resume analysis, smart job matching algorithms, and skill-based assessments to provide users with personalized career recommendations and insights. For job seekers, JobConnect offers features like real-time job search, filtered listings, application tracking, and resume evaluation with improvement suggestions. Recruiters benefit from an intuitive dashboard to post jobs, screen applicants, and manage the entire hiring process efficiently. The application ensures secure user authentication, data privacy, and responsive design for seamless usability across devices. By blending career guidance tools with robust hiring functionalities, JobConnect bridges the gap between talent and opportunity, catering to everyone from fresh graduates to seasoned professionals.",
     image: jobImg,
-    tags: ["React Js", "MongoDB", "Express Js", "Node Js", "Tailwind CSS", "Machine Learning"],
+    tags: [
+      "React Js",
+      "MongoDB",
+      "Express Js",
+      "Node Js",
+      "Tailwind CSS",
+      "Machine Learning",
+    ],
     category: "machine learning",
     github: "https://github.com/Manavp2305/Job-Portal",
-    
+
     member: [
-    {
-      name: "Manav Patel",
-      img: HeroImg,
-      linkedin: "https://www.linkedin.com/in/manav-patel-8a4049251/",
-      github: "https://github.com/Manavp2305",
-    },
-    {
-      name: "Shiv Patel",
-      img: "https://media.licdn.com/dms/image/v2/D4D03AQGhCwscTO8Djg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709353768730?e=1755129600&v=beta&t=v9xnfjUetFl-tkkxUgf3T7kViWX2brqDPZqihS5etLc",
-      linkedin: "https://www.linkedin.com/in/shiv-patel-9a5048251/",
-      github: "https://github.com/PatelShiv10",
-    },
-    {
-      name: "Neel Patel",
-      img: "https://media.licdn.com/dms/image/v2/D4D03AQE68xUwqysp-Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707372929001?e=1755129600&v=beta&t=M6w0QzftbDNmwQWQJizJAX5PKcH6eIU8jWZ1yqd1SFA",
-      linkedin: "https://www.linkedin.com/in/neel-patel-2198692b1/",
-      github: "https://github.com/0Neel0",
-    },
-    {
-      name: "Vandan Soni",
-      img: "https://media.licdn.com/dms/image/v2/D4D35AQGu-n7HhNvjbg/profile-framedphoto-shrink_100_100/B4DZUS5xZZGkAo-/0/1739778889626?e=1751965200&v=beta&t=kq4b-nTuOj-FCrBOt1XhQ4J0bG3jQVUOrspH24kcQmg",
-      linkedin: "https://www.linkedin.com/in/vandan-soni-999244251/",
-      github: "https://github.com/Vandan304",
-    },
-  ],
+      {
+        name: "Manav Patel",
+        img: HeroImg,
+        linkedin: "https://www.linkedin.com/in/manav-patel-8a4049251/",
+        github: "https://github.com/Manavp2305",
+      },
+      {
+        name: "Shiv Patel",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQGhCwscTO8Djg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709353768730?e=1755129600&v=beta&t=v9xnfjUetFl-tkkxUgf3T7kViWX2brqDPZqihS5etLc",
+        linkedin: "https://www.linkedin.com/in/shiv-patel-9a5048251/",
+        github: "https://github.com/PatelShiv10",
+      },
+      {
+        name: "Neel Patel",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQE68xUwqysp-Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707372929001?e=1755129600&v=beta&t=M6w0QzftbDNmwQWQJizJAX5PKcH6eIU8jWZ1yqd1SFA",
+        linkedin: "https://www.linkedin.com/in/neel-patel-2198692b1/",
+        github: "https://github.com/0Neel0",
+      },
+      {
+        name: "Vandan Soni",
+        img: "https://media.licdn.com/dms/image/v2/D4D35AQGu-n7HhNvjbg/profile-framedphoto-shrink_100_100/B4DZUS5xZZGkAo-/0/1739778889626?e=1751965200&v=beta&t=kq4b-nTuOj-FCrBOt1XhQ4J0bG3jQVUOrspH24kcQmg",
+        linkedin: "https://www.linkedin.com/in/vandan-soni-999244251/",
+        github: "https://github.com/Vandan304",
+      },
+    ],
   },
   {
     id: 10,
@@ -349,7 +380,6 @@ export const projects = [
     tags: ["React Js", "CSS"],
     category: "web app",
     github: "https://github.com/Manavp2305/event-management-app",
-    
   },
   {
     id: 4,
@@ -357,35 +387,35 @@ export const projects = [
     date: "Oct 2024 - Nov 2024",
     description:
       "The Zerodha Clone is a responsive web application built using React.js that replicates the user interface of the popular stock trading platform Zerodha. It features a clean and modern UI with components like a login page, stock watchlist, market overview, portfolio summary, and order placement screens. The project uses React Router for navigation, and dummy or static JSON data to simulate stock prices and portfolio performance. Styled with Tailwind CSS or Material UI, the clone focuses on delivering a seamless user experience similar to Zerodha's dashboard, emphasizing reusable components and interactive UI elements.",
-    image:zerodhaImg,
+    image: zerodhaImg,
     tags: ["React Js", "Tailwind CSS"],
     category: "web app",
     member: [
-    {
-      name: "Manav Patel",
-      img: HeroImg,
-      linkedin: "https://www.linkedin.com/in/manav-patel-8a4049251/",
-      github: "https://github.com/Manavp2305",
-    },
-    {
-      name: "Shiv Patel",
-      img: "https://media.licdn.com/dms/image/v2/D4D03AQGhCwscTO8Djg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709353768730?e=1755129600&v=beta&t=v9xnfjUetFl-tkkxUgf3T7kViWX2brqDPZqihS5etLc",
-      linkedin: "https://www.linkedin.com/in/shiv-patel-9a5048251/",
-      github: "https://github.com/PatelShiv10",
-    },
-    {
-      name: "Neel Patel",
-      img: "https://media.licdn.com/dms/image/v2/D4D03AQE68xUwqysp-Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707372929001?e=1755129600&v=beta&t=M6w0QzftbDNmwQWQJizJAX5PKcH6eIU8jWZ1yqd1SFA",
-      linkedin: "https://www.linkedin.com/in/neel-patel-2198692b1/",
-      github: "https://github.com/0Neel0",
-    },
-    {
-      name: "Jills patel",
-      img: "https://media.licdn.com/dms/image/v2/D5603AQHz862Q87mBgA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710224728167?e=1755129600&v=beta&t=AAMWehP0iBOXz3qn90BATCn5bS4ju2ycN042XCih81g",
-      linkedin: "https://www.linkedin.com/in/jills-patel-b4411225a/",
-      github: "https://github.com/jillspatel250",
-    },
-  ],
+      {
+        name: "Manav Patel",
+        img: HeroImg,
+        linkedin: "https://www.linkedin.com/in/manav-patel-8a4049251/",
+        github: "https://github.com/Manavp2305",
+      },
+      {
+        name: "Shiv Patel",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQGhCwscTO8Djg/profile-displayphoto-shrink_100_100/profile-displayphoto-shrink_100_100/0/1709353768730?e=1755129600&v=beta&t=v9xnfjUetFl-tkkxUgf3T7kViWX2brqDPZqihS5etLc",
+        linkedin: "https://www.linkedin.com/in/shiv-patel-9a5048251/",
+        github: "https://github.com/PatelShiv10",
+      },
+      {
+        name: "Neel Patel",
+        img: "https://media.licdn.com/dms/image/v2/D4D03AQE68xUwqysp-Q/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1707372929001?e=1755129600&v=beta&t=M6w0QzftbDNmwQWQJizJAX5PKcH6eIU8jWZ1yqd1SFA",
+        linkedin: "https://www.linkedin.com/in/neel-patel-2198692b1/",
+        github: "https://github.com/0Neel0",
+      },
+      {
+        name: "Jills patel",
+        img: "https://media.licdn.com/dms/image/v2/D5603AQHz862Q87mBgA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1710224728167?e=1755129600&v=beta&t=AAMWehP0iBOXz3qn90BATCn5bS4ju2ycN042XCih81g",
+        linkedin: "https://www.linkedin.com/in/jills-patel-b4411225a/",
+        github: "https://github.com/jillspatel250",
+      },
+    ],
   },
   {
     id: 5,
@@ -393,8 +423,8 @@ export const projects = [
     date: "Jan 2024",
     description:
       "The Weather Search App is a frontend web application that allows users to search for real-time weather information of any city worldwide. Built using React, the app integrates with a public weather API (e.g., OpenWeatherMap) to fetch live data such as temperature, humidity, wind speed, and weather conditions. Users can input a city name, and the app dynamically displays accurate weather results in a clean and responsive UI. The interface is designed with user experience in mind, providing error handling for invalid entries and smooth loading states. This project demonstrates API integration, state management, and responsive design using modern frontend technologies.",
-    image:weatherImg,
-    tags: ["Node Js", "Express Js", "Handlebars",],
+    image: weatherImg,
+    tags: ["Node Js", "Express Js", "Handlebars"],
     category: "web app",
     github: "https://github.com/rishavchanda/Todo-Web-App",
     webapp: "https://rishav-react-todo.netlify.app/",
@@ -405,7 +435,7 @@ export const projects = [
     date: "Oct 2023 - Nov 2023",
     description:
       "This static Property Services website presents a clean and professional layout displaying various property types such as Apartments, Villas, Offices, Buildings, Shops, and Townhouses, each illustrated with representative images. The homepage features prominent sections for property listings as well as showcases trusted property agents to assist users in their real estate journey. It also includes user interface components for login and registration, offering a comprehensive and visually engaging experience for visitors exploring property options.",
-    image:propertyImg,
+    image: propertyImg,
     tags: ["HTML", "CSS"],
     category: "web app",
     github: "https://github.com/Manavp2305/property-services-website",
