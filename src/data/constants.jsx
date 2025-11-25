@@ -259,6 +259,25 @@ export const education = [
 export const projects = [
   {
     id: 0,
+    title: "Lawmate",
+    date: "Sep 2025 - Nov 2025",
+    description:
+      "Developed an AI-powered legal assistance web platform that allows users to upload legal documents for automated summarization, search and filter lawyers by specialization, book appointments, and make secure online payments. Built dedicated dashboards for clients, lawyers, and admins to manage profiles, bookings, and transactions, with JWT-based authentication and role-based access control. Implemented a React.js frontend, FastAPI backend, and MongoDB database, integrating NLP models for document processing and focusing on security, usability, and scalability of the overall system.",
+    image: lawmateImg,
+    tags: [
+      "React Js",
+      "MongoDb",
+      "Node Js",
+      "Express Js",
+      "Python",
+      "RazorPay",
+    ],
+    category: "web app",
+    github: "https://github.com/Manavp2305/Lawmate",
+    webapp: "https://lawmate-legal-ai.vercel.app/",
+  },
+  {
+    id: 1,
     title: "Real-Time Chat Application",
     date: "Jan 2025 - Feb 2025",
     description:
@@ -277,25 +296,7 @@ export const projects = [
     github: "https://github.com/Manavp2305/fullStack-chat-app",
     webapp: "https://fullstack-chat-app-967z.onrender.com/login",
   },
-  {
-    id: 1,
-    title: "Lawmate",
-    date: "Sep 2024 - Nov 2024",
-    description:
-      "Developed an AI-powered legal assistance web platform that allows users to upload legal documents for automated summarization, search and filter lawyers by specialization, book appointments, and make secure online payments. Built dedicated dashboards for clients, lawyers, and admins to manage profiles, bookings, and transactions, with JWT-based authentication and role-based access control. Implemented a React.js frontend, FastAPI backend, and MongoDB database, integrating NLP models for document processing and focusing on security, usability, and scalability of the overall system.",
-    image: lawmateImg,
-    tags: [
-      "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Python",
-      "RazorPay",
-    ],
-    category: "web app",
-    github: "https://github.com/Manavp2305/Lawmate",
-    webapp: "https://lawmate-legal-ai.vercel.app/",
-  },
+  
   {
     id: 2,
     title: "Cloth-shopping Platform",
