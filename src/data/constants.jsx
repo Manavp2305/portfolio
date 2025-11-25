@@ -296,7 +296,7 @@ export const projects = [
     github: "https://github.com/Manavp2305/fullStack-chat-app",
     webapp: "https://fullstack-chat-app-967z.onrender.com/login",
   },
-  
+
   {
     id: 2,
     title: "Cloth-shopping Platform",
@@ -319,7 +319,7 @@ export const projects = [
   {
     id: 3,
     title: "Quiz-App",
-    date: "Apr 2025 - May 2025",
+    date: "Apr 2024 - May 2024",
     description:
       "Developed a full-stack Quiz Web Application using React for the frontend and .NET Core for the backend. The application allows users to take quizzes across various topics with real-time scoring and feedback. Features include user authentication, a timer for each quiz session, and dynamic question loading. Admin users can create and manage quizzes through a secure dashboard. Focused on delivering a responsive and intuitive user interface, ensuring a smooth experience across devices.",
     image: quizImg,
@@ -329,7 +329,7 @@ export const projects = [
   {
     id: 4,
     title: "JobConnect",
-    date: "Dec 2021 - Apr 2022",
+    date: "Dec 2024 - Apr 2025",
     description:
       "JobConnect is an advanced job portal web application built using React for the frontend, aimed at revolutionizing the recruitment process for both job seekers and recruiters. The platform integrates AI-powered resume analysis, smart job matching algorithms, and skill-based assessments to provide users with personalized career recommendations and insights. For job seekers, JobConnect offers features like real-time job search, filtered listings, application tracking, and resume evaluation with improvement suggestions. Recruiters benefit from an intuitive dashboard to post jobs, screen applicants, and manage the entire hiring process efficiently. The application ensures secure user authentication, data privacy, and responsive design for seamless usability across devices. By blending career guidance tools with robust hiring functionalities, JobConnect bridges the gap between talent and opportunity, catering to everyone from fresh graduates to seasoned professionals.",
     image: jobImg,
@@ -374,7 +374,7 @@ export const projects = [
   {
     id: 10,
     title: "Event Management App",
-    date: "May 2024 - Jun 2024",
+    date: "May 2023 - Jun 2023",
     description:
       "The Event Management App is a responsive and user-friendly frontend web application designed to simplify the process of event discovery, registration, and organization. Built using React, the platform allows users to browse upcoming events, view detailed event information, and register with ease. The interface includes dynamic components such as event cards, category filters, and a calendar-based event viewer. With an intuitive layout and smooth navigation, the app ensures a seamless experience across devices. Though backend integration is not included in this version, all UI components are built with scalability in mind to support future enhancements such as user authentication, admin dashboards, and real-time updates.",
     image: eventImg,
@@ -385,7 +385,7 @@ export const projects = [
   {
     id: 4,
     title: "Zerodha Clone",
-    date: "Oct 2024 - Nov 2024",
+    date: "Sep 2023 - Nov 2023",
     description:
       "The Zerodha Clone is a responsive web application built using React.js that replicates the user interface of the popular stock trading platform Zerodha. It features a clean and modern UI with components like a login page, stock watchlist, market overview, portfolio summary, and order placement screens. The project uses React Router for navigation, and dummy or static JSON data to simulate stock prices and portfolio performance. Styled with Tailwind CSS or Material UI, the clone focuses on delivering a seamless user experience similar to Zerodha's dashboard, emphasizing reusable components and interactive UI elements.",
     image: zerodhaImg,
@@ -433,7 +433,7 @@ export const projects = [
   {
     id: 6,
     title: "Property Services Website",
-    date: "Oct 2023 - Nov 2023",
+    date: "May 2023 - Jul 2023",
     description:
       "This static Property Services website presents a clean and professional layout displaying various property types such as Apartments, Villas, Offices, Buildings, Shops, and Townhouses, each illustrated with representative images. The homepage features prominent sections for property listings as well as showcases trusted property agents to assist users in their real estate journey. It also includes user interface components for login and registration, offering a comprehensive and visually engaging experience for visitors exploring property options.",
     image: propertyImg,
