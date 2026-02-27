@@ -11,6 +11,7 @@ import charusatImg from "../images/charusat.png";
 import knowledgeImg from "../images/knowledge.png";
 import lawmateImg from "../images/Lawmate.png";
 import invoiceImg from "../images/invoice.png";
+import tripImg from "../images/trip.png";
 
 export const Bio = {
   name: "Manav Patel",
@@ -303,7 +304,7 @@ export const projects = [
     title: "AI Trip Planner",
     description:
       "Personalized travel itinerary generator featuring an interactive AI chatbot powered by Google Gemini.",
-    //image: ,
+    image: tripImg,
     tags: [
       "React","Supabase","Google Gemini API","PostgreSQL","Tailwind CSS",
       "Python",
