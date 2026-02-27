@@ -253,7 +253,7 @@ export const education = [
     img: charusatImg,
     school: "Charotar University of Science and Technology (CHARUSAT), Gujarat",
     date: "Sep 2022 - Apr 2026",
-    grade: "9.04 CGPA",
+    grade: "9.16 CGPA",
     desc: "Currently pursuing a Bachelor's degree in Computer Engineering from CHARUSAT. Completed core courses including Data Structures, Algorithms, Operating Systems, DBMS, Computer Networks, and Software Engineering. Actively involved in academic and technical projects and participated in hackathons and departmental activities.",
     degree: "Bachelor of Technology(B.Tech), Computer Engineering",
   },
