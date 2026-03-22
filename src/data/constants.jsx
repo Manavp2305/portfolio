@@ -13,6 +13,9 @@ import lawmateImg from "../images/Lawmate.png";
 import invoiceImg from "../images/invoice.png";
 import tripImg from "../images/trip.png";
 
+import appiflyLogo from "../assets/appifly_logo.png";
+import sparksToIdeasLogo from "../assets/sparkstoIdeas_logo.png";
+
 export const Bio = {
   name: "Manav Patel",
   roles: ["Full Stack Developer", ".NET Developer", "Freelancer", "Programmer"],
@@ -49,12 +52,12 @@ export const skills = [
       {
         name: "CSS",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg",
       },
       {
         name: "JavaScript",
         image:
-          "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg",
       },
       {
         name: "Bootstrap",
@@ -196,7 +199,7 @@ export const experiences = [
 
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/ieducation-896a1.appspot.com/o/svg.svg?alt=media&token=973308d9-4681-469c-8bc0-04e0b831ad84",
+    img: appiflyLogo,
     role: "Full Stack Developer Intern",
     company: "Appifly Infotech",
     date: "Dec 2025 - Present",
@@ -214,7 +217,7 @@ export const experiences = [
 
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/ieducation-896a1.appspot.com/o/svg.svg?alt=media&token=973308d9-4681-469c-8bc0-04e0b831ad84",
+    img: appiflyLogo,
     role: "Full Stack Developer Intern",
     company: "Appifly Infotech",
     date: "May 2025 - June 2025",
@@ -231,19 +234,17 @@ export const experiences = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/v2/C4E0BAQHtYmHxUs9B_g/company-logo_200_200/company-logo_200_200/0/1630616931234/sparks_to_ideas_logo?e=1773878400&v=beta&t=Lygvpr-07sXVCALBPC78PvXgZMpJ9ndUQaFv-hPOThw",
-    role: "MERN Stack Developer Intern",
+    img: sparksToIdeasLogo,
+    role: "React Js Intern",
     company: "Sparks To Ideas",
-    date: "May 2024 - June 2024",
-    desc: "Created a web-based Event Management System with real-time event listings, secure registration, and automated notifications to simplify event participation and management.",
+    date: "May 2024 - Jun 2024",
+    desc: "Designed and developed an event management website using Reactjs. Implemented responsive design principles to ensure optimal user experience across devices, improving accessibility and engagement. Gained hands-on experience in web development, focusing on dynamic content rendering, API integration, and front-end performance optimization.",
     skills: [
       "HTML",
+      "CSS",
       "ReactJS",
-      "NodeJs",
-      "Tailwind CSS",
-      "ExpressJs",
-      "Vercel",
-      "MongoDB",
+      "API Integration",
+      "Responsive Design",
     ],
   },
 ];
